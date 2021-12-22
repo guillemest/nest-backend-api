@@ -1,6 +1,6 @@
 {
   "name": "nest-backend-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "author": "",
   "private": true,
@@ -37,6 +37,7 @@
     "nestjs-pino": "^2.4.0",
     "nodemon": "^2.0.15",
     "npm": "^8.3.0",
+    "pino-http": "^6.5.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
